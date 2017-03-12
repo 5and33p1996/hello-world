@@ -1,2 +1,2 @@
 # hello-world
-First repository
+Well this is my first branch and i am trying to learn and develop something awesome.
